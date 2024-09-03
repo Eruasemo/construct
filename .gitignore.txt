@@ -1,0 +1,45 @@
+# Archivos y carpetas de Construct 2
+*.capx
+*.c2proj
+*.c2runtime
+*.c2addon
+*.c2game
+*.c2project
+*.caproj
+
+# Archivos temporales de Construct 2
+*.tmp
+
+# Archivos generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
+
+# Archivos de compilación
+/build/
+
+# Archivos del IDE
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ncb
+*.sdf
+*.opensdf
+*.vscode/
+
+# Directorios de salida
+output/
+dist/
+deploy/
+
+# Archivos específicos de sistema operativo
+*.swp
+*.swo
+
+# Archivos de Node.js (si los usas en el proyecto)
+node_modules/
+npm-debug.log
+yarn-error.log
